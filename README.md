@@ -1,5 +1,5 @@
-# Stack Implementation
-This project includes 100% test coverage. Tests belongs to App Academy.
+# Stack & Queue Implementation
+This project includes 100% test coverage. Tests belongs to App Academy. Developed using Test Driven Development. 
 
 Contains three classes, Node, Stack, and Queue. 
 
