@@ -49,4 +49,5 @@ Contains three classes, Node, Stack, and Queue.
     size(){
         return this.length;
     }
+ }
   ```
