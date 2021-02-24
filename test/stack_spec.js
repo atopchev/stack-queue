@@ -1,4 +1,5 @@
-const { Node, Stack } = require('../lib/stack.js');
+const { Stack } = require('../lib/stack.js');
+const { Node } = require('../lib/node.js');
 const { expect } = require('chai');
 
 describe('Stack', () => {
